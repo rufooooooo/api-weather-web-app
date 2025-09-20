@@ -15,7 +15,7 @@ A Flask web application that displays real-time weather information for any city
 
 - **Python 3** - Programming language
 - **Flask** - Web framework
-- **OpenWeatherMap API** - Weather data provider
+- **OpenWeatherMap API** - Weather data provider (https://openweathermap.org/)
 - **HTML/CSS** - Frontend templates
 - **Requests** - API consumption library
 
