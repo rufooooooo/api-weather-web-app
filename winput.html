@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html> 
+   <body style="margin-left:100px"> 
+     
+      <form action = "/submit" method = "POST"> 
+	  
+         <p><h3>Weather Information App</h3></p> 
+         <p><h4>Provides Current Temperature, feels like, weather information and windspeed</h4></p>
+         <p>Please enter the city name : <input type = 'text' name = 'city' /></p> 
+         <br>
+         <p>Please select the Unit of temperature:</p>
+
+         <input type="radio" name="units" id="metric" value="metric">
+         <label for="metric">Celsius </label>
+
+         <input type="radio" name="units" id="imperial" value="imperial">
+         <label for="imperial">Fahrenheit </label>
+
+         <input type="radio" name="units" id="standard" value="standard">
+         <label for="standard">Kelvin </label>
+         <br><br>
+
+         <p><input type = 'submit' value = 'Submit'/></p> 
+      </form> 
+        
+   </body> 
+</html> 
