@@ -25,6 +25,7 @@ A Flask web application that displays real-time weather information for any city
 
 - Python 3.x
 - pip (Python package manager)
+- Get your API Key at https://home.openweathermap.org/api_keys
 
 ### Installation
 
